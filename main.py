@@ -11,4 +11,5 @@ import stream
 # plot 
 
 stream = stream.Stream()
-stream.run()
+stream.run() # press escape to exit webcam view
+
