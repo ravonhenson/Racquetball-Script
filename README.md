@@ -1,2 +1,2 @@
 # Racquetball-Script
-Python script for testing final project racquetball launcher in EGR 122 
+Python script OpenCV for testing racquetball launcher  
